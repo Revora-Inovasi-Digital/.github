@@ -16,7 +16,7 @@
 
 ---
 
-## Build. Connect. Operate.
+## ⚡ Build. Connect. Operate.
 
 Revora membantu stakeholder merancang dan menjalankan sistem digital yang lebih siap dipakai di dunia nyata: stabil di sisi infrastruktur, rapi di sisi integrasi, dan relevan untuk kebutuhan operasional harian.
 
@@ -28,7 +28,7 @@ Kami berfokus pada tiga fondasi utama:
 
 ---
 
-## What We Ship
+## 🚢 What We Ship
 
 Revora mengembangkan solusi dari layer backend hingga aplikasi lapangan, dengan pendekatan yang praktis, modular, dan siap berkembang.
 
@@ -43,7 +43,7 @@ Revora mengembangkan solusi dari layer backend hingga aplikasi lapangan, dengan 
 
 ---
 
-## How We Think
+## 🧠 How We Think
 
 Teknologi yang baik bukan cuma terlihat modern. Ia harus bisa dipakai, dirawat, diintegrasikan, dan ditingkatkan tanpa menghambat kerja tim.
 
@@ -56,7 +56,7 @@ Karena itu, setiap solusi Revora dibangun dengan prinsip:
 
 ---
 
-## Product Direction
+## 🧭 Product Direction
 
 Kami membangun produk dan layanan di ranah:
 
@@ -73,7 +73,7 @@ Lihat daftar produk lengkap di **`https://revora.co.id/products`**.
 
 ---
 
-## Connect
+## 🤝 Connect
 
 | Channel | Detail |
 | --- | --- |
