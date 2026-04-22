@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="../assets/revora-logo.png" alt="Revora Logo" width="180" />
+  <img src="../assets/revora-logo.png" alt="Revora Logo" width="300" />
 
   # PT Revora Inovasi Digital
 
